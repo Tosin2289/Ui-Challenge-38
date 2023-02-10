@@ -207,7 +207,7 @@ class _demoState extends State<demo> {
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8),
                     image: const DecorationImage(
-                        image: AssetImage('assets / coin.jpg'),
+                        image: AssetImage('assets/coin.jpg'),
                         fit: BoxFit.cover)),
                 child: Padding(
                   padding: const EdgeInsets.only(left: 30),
